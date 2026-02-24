@@ -1,0 +1,17 @@
+{
+  "background_color": "#ffffff",
+  "dir": "auto",
+  "display": "fullscreen",
+  "name": "Scratch vs Scratch battle space",
+  "orientation": "landscape",
+  "scope": "/https://pauloivodasilvasouto-hub.github.io/Scratch-vs-Scratch-battle-space/",
+  "short_name": "https://pauloivodasilvasouto-hub.github.io/Scratch-vs-Scratch-battle-space/",
+  "start_url": "https://pauloivodasilvasouto-hub.github.io/Scratch-vs-Scratch-battle-space/",
+  "theme_color": "#000000",
+  "id": "Constri games store",
+  "description": "Um jogo simples que desafios grandes",
+  "lang": "pt",
+  "categories": [
+    "games"
+  ]
+}
